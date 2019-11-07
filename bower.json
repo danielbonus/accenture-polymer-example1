@@ -1,0 +1,16 @@
+{
+  "name": "started-kit-polymer",
+  "version": "0.1.0",
+  "description": "",
+  "ignore": [],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^2.0.0"
+  },
+  "devDependencies": {
+    
+  },
+  "main": [
+    "./src/started-kit-polymer.html"
+  ],
+  "composer": {}
+}
